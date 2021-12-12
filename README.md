@@ -6,7 +6,7 @@ JLCPCB.com is a quite nice EMS, especially for prototypes made with the free lay
 These tools help by updating the BOM.
 
 # Extract_Basic_Parts
-JLCPCB provides a ![list of parts](https://jlcpcb.com/componentSearch/uploadComponentInfo), they mount on boards. The script extracts all basic parts from that list and adds columns with key values. The result is saved to a file with "_BasicParts.csv" at the end ![(example)](JLCPCB-SMT-Parts-Library(20211211)_BasicParts.csv).
+JLCPCB provides a list of parts (https://jlcpcb.com/componentSearch/uploadComponentInfo), they mount on boards. The script extracts all basic parts from that list and adds columns with key values. The result is saved to a file with "_BasicParts.csv" at the end ![(example)](JLCPCB-SMT-Parts-Library(20211211)_BasicParts.csv).
 
 Usage:
 Extract_Basic_Parts <name_of_downloaded_list.csv>
